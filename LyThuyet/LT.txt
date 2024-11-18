@@ -1,0 +1,8 @@
+Toán tử	     Mô tả	                                Ví dụ
++=	    Cộng giá trị vào biến và gán lại kết quả	a += 3 → a = a + 3
+++	    Tăng giá trị của biến lên 1	                a++ hoặc ++a
+=+	    Không hợp lệ trong Go	                    Lỗi cú pháp
+
+câu lệnh tạo go.mod
+
+go mod init <module_name>
